@@ -12,3 +12,6 @@ openssl_get_cipher_methods(): 利用可能な暗号化方式
 
 ## password_hash()の利用
 公式マニュアルに基づく。
+
+## zipファイルの解答
+- [zipファイル解凍](http://qiita.com/yamikoo@github/items/c0250e8f0548534adbd2)
